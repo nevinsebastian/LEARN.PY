@@ -10,4 +10,7 @@ message = 'Hello kunna myre' #we can store data in variable in python
 #print(message.upper()) #capitqal
 #print(message.count("Hello")) #to count it ,it is casse sensitive 
 
-print(message.find("l")) #to find the index of a thing
+#print(message.find("l")) #to find the index of a thing
+
+new_message = message.replace('kunna','good')
+print(new_message)
