@@ -17,6 +17,7 @@
 greeting = 'Hello'
 name = 'Nevin'
 
-message = greeting +', '+ name + '. Welcome!'#string concatination
+
+message = '{}, {}. Welcome!'.format(greeting, name)
 
 print(message)
