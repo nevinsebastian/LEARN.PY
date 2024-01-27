@@ -17,6 +17,6 @@
 greeting = 'Hello'
 name = 'Nevin'
 
-message = greeting +', '+ name #string concatination
+message = greeting +', '+ name + '. Welcome!'#string concatination
 
 print(message)
