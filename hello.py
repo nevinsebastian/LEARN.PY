@@ -1,6 +1,6 @@
 #print('hello myre') #to print a plane text 
 
-message = 'Hello kunna myre' #we can store data in variable in python
+#message = 'Hello kunna myre' #we can store data in variable in python
 #print(message) #we can print it
 #print(len(message)) #we can print the length of the thing inside of a varuable witht len()
 #print(message[1])#to print a lthingfrom  a string we can specify the index
@@ -12,5 +12,11 @@ message = 'Hello kunna myre' #we can store data in variable in python
 
 #print(message.find("l")) #to find the index of a thing
 
-message = message.replace('kunna','good') #we cn replace it and assisgn it to any string
+#message = message.replace('kunna','good') #we cn replace it and assisgn it to any string
+#print(message)
+greeting = 'Hello'
+name = 'Nevin'
+
+message = greeting +', '+ name #string concatination
+
 print(message)
