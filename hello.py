@@ -12,5 +12,5 @@ message = 'Hello kunna myre' #we can store data in variable in python
 
 #print(message.find("l")) #to find the index of a thing
 
-new_message = message.replace('kunna','good')
+new_message = message.replace('kunna','good') #we cn replace it and assisgn it to any string
 print(new_message)
