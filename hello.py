@@ -8,3 +8,4 @@ message = 'Hello kunna myre' #we can store data in variable in python
  
 print(message.lower()) #lowe 
 print(message.upper()) #capitqal
+print(message.count("Hello")) #to count it ,it is casse sensitive 
