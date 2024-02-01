@@ -1,4 +1,4 @@
-#print('hello myre') #to print a plane text 
+#print('hello myre') #to print a plane text .
 
 #message = 'Hello kunna myre' #we can store data in variable in python.
 #print(message) #we can print it
