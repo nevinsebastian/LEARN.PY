@@ -22,3 +22,5 @@ message = '{}, {}. Welcome!'.format(greeting, name)
 
 print(message)
 print(message)
+print(message)
+
