@@ -12,7 +12,7 @@
 
 #print(message.find("l")) #to find the index of a thing
 
-#message = message.replace('kunna','good') #we cn replace it and assisgn it to any string
+#message = message.replac//e('kunna','good') #we cn replace it and assisgn it to any string
 #print(message)
 greeting = 'Hello'
 name = 'Nevin'
